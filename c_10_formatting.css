@@ -1,0 +1,30 @@
+/*
+* Susannah Snellgrove
+* April 10
+* CSS CO9 assignment
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+    background-color: green;
+    color: black;
+    font-family: "Times New Roman", Arial, serif;
+}
+
+h1 {
+    text-align:center;
+    font-size:30pt;
+    text-decoration:overline underline;
+}
+
+img {
+    float:left;
+}
